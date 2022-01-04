@@ -32,4 +32,7 @@ Full of Note book that you can read before IR exam
     - Language model
     - Bigram model    
 
-## code sample
+## Data Set
+- IMDB movie review
+- Netflix list
+- reidt sarcasm
