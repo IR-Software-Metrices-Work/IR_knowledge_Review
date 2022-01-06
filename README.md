@@ -1,7 +1,7 @@
 # IRMidterm_Review
 Full of Note book that you can read before IR exam
 
-## content
+## content ( So far )
 
 - Module 0 : What is IR
    - little bit of history
@@ -9,30 +9,29 @@ Full of Note book that you can read before IR exam
 - Module 1 : Overview of IR
     - how we gathering or query somethign
     - Inverted Index Construction
-
+    - tokenization
+    - indexing
 
 - Moudle 2 : Indexing construction
-     - tokenization
-     - indexing 
      - compressing
      - indexing algorithm
      - Sparse matrix
 
 - Module 3 : IR model
-     - Bag of words
      - Term Frequency
      - Inversion document freuency
      - Tf-Idf
-     - Document vector
+     - N-gram
+     - Vector-Space Model
      - Ranking
      - BM25
  
-- moudle 4 : Spell Collection
+- Moudle 4 : Spell Collection
     - Spelling correction
     - Language model
-    - Bigram model    
+  
+- Module 5 : Waiting after midter class....
 
-## Data Set
-- IMDB movie review
-- Netflix list
-- reidt sarcasm
+I will do some summary after class. this repository will force me to be more attend to the course.
+
+all property can use for free.
