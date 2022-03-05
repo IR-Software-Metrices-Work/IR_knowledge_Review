@@ -30,8 +30,10 @@ Full of Note book that you can read before IR exam
     - Spelling correction
     - Language model
   
-- Module 5 : Waiting after midter class....
+- Module 5 : Evaluation
+- Module 6 : Web Search
+- Module 7 : Machine Learning and IR
+- Module 8 : Question Anwer System
 
-I will do some summary after class. this repository will force me to be more attend to the course.
 
-all property can use for free.
+all property here can use for free.
